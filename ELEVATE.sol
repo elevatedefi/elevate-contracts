@@ -1,6 +1,4 @@
-/*
- * Copyright © 2021 elevatedefi.io. ALL RIGHTS RESERVED.
- */
+// SPDX-License-Identifier: GPL-3.0-only
 
 pragma solidity ^0.6.2;
 
